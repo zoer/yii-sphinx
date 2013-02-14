@@ -1,0 +1,12 @@
+{
+    "name": "zoer/yii-sphinx",
+    "description": "Forked from http://www.yiiframework.com/extension/dgsphinxsearch/",
+    "homepage": "http://www.yiiframework.com/extension/dgsphinxsearch/",
+    "autoload":{
+        "classmap": [
+            "DGSphinxSearch.php",
+            "sphinxapi.php",
+            "models/DGSphinxSearchResult.php"
+        ]
+    }
+}
